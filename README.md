@@ -29,3 +29,24 @@ POST http://localhost.....**
 | --- | --- | --- |
 | None | None | Crea un usuario pasando el objeto en el request
 
+**HTTP Request
+PUT http://localhost.....**
+
+| Parameter | Type | Description
+| --- | --- | --- |
+| id | Long | Actualiza el usuario pasando el objeto en el request y la id como parametro
+
+**HTTP Request
+DELETE http://localhost.....**
+
+| Parameter | Type | Description
+| --- | --- | --- |
+| id | Long | Elimina el usuario
+
+**HTTP Request
+GET http://localhost.....**
+
+| Parameter | Type | Description
+| --- | --- | --- |
+| None | None | Lista los alumnos que pertenecen a un curso
+
