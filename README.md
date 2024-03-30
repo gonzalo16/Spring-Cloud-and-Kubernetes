@@ -5,7 +5,7 @@ escalamiento dinámico. Los microservicios utilizan bases de datos diferentes un
 endpoints con Spring Security OAuth2.
 
 # Descripción de los microservicios
-Microservicio Usario.
+### Microservicio Usario.
 En un microservice en el que podemos realizar operaciones CRUD mediante API Rest conectado a una base de datos MySQL8
 
 **HTTP Request
@@ -49,4 +49,8 @@ GET http://localhost.....**
 | Parameter | Type | Description
 | --- | --- | --- |
 | None | None | Lista los alumnos que pertenecen a un curso
+
+
+### Microservicio Curso.
+En un microservice en el que podemos realizar operaciones CRUD mediante API Rest conectado a una base de datos Postgres
 
