@@ -44,7 +44,7 @@ DELETE ae65e0d59d4be4011b542247e7b2483a-364527965.eu-north-1.elb.amazonaws.com:8
 | id | Long | Elimina el usuario
 
 **HTTP Request
-GET http://localhost.....**
+GET ae65e0d59d4be4011b542247e7b2483a-364527965.eu-north-1.elb.amazonaws.com:8001**
 
 | Parameter | Type | Description
 | --- | --- | --- |
